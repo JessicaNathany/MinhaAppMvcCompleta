@@ -6,9 +6,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DevApp.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class MvcCompletaDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public MvcCompletaDbContext(DbContextOptions<MvcCompletaDbContext> options)
             : base(options)
         {
         }
