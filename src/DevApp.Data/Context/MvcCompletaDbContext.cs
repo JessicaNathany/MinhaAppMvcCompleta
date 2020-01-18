@@ -27,7 +27,7 @@ namespace DevApp.Data.Context
 
             
 
-            //foreach(var relationship in modelBuilder.Model.GetEntityTypes.().SelectMany(async=))
+            //foreach(var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(async=))
 
             base.OnModelCreating(modelBuilder);
         }
