@@ -1,4 +1,4 @@
-﻿using AppCore.Models;
+﻿using AppCore.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

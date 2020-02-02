@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using AppCore.Models;
+using AppCore.ViewModels;
 using Microsoft.EntityFrameworkCore;
 
 
