@@ -23,4 +23,9 @@
     <Folder Include="Data\Migrations\" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevApp.Business\DevApp.Business.csproj" />
+  </ItemGroup>
+
 </Project>
